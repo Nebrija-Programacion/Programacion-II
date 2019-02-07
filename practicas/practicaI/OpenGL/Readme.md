@@ -21,6 +21,6 @@
 ### Paso 6 (4 puntos)
 Modificar el programa para que:
   - El usuario diga cuandos cuadrados y cuántas bolas quiere.
-  - El step_x y step_y de cada una de las figuras sea un número aleatorio entre 0 y 0.05.
+  - El step_x y step_y de cada una de las figuras sea un número aleatorio entre 0 y 0.05 (este valor se puede ajustar según la velocidad del ordenador).
   - El color de las figuras sea aleatorio.
   - Se dibuje todo en pantalla.
