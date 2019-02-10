@@ -1,5 +1,7 @@
 # Practica I - Enunciado
 
+[Solución](https://github.com/avalero/OpenGLExamples/tree/master/ParticlesGL)
+
 ### Paso 1 (1 punto)
   - Descargar y compilar y ejecutar el proyecto https://github.com/avalero/OpenGLExamples/tree/master/HelloBall
   
