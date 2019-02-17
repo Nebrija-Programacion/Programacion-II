@@ -6,8 +6,8 @@
   
 ## Sesion 2
   - 4 Febrero 2019
-  - [Herencia]
-  - [Polimorfismo]
+  - [Herencia](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Herencia)
+  - [Polimorfismo](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Funciones_virtuales)
 
 ## Práctia I
   - 8 Febrero 2019
@@ -18,5 +18,11 @@
   
 ## Sesión 3
   - 11 Febrero 2019
-  - [Polimorfismo]
-  - [Sobrecarga operadores]
+  - [Polimorfismo](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Funciones_virtuales)
+  - [Ejemplo]()
+
+## Sesión 4
+  - 18 Febrero 2019
+  - [Sobrecarga de operadores](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Sobrecarga_de_Operadores)
+  - [Actividad de clase]() 
+  - [Ejemplo]()
