@@ -77,21 +77,31 @@ int main()
             if(aa == '>'){
                 if(a > b){
                     cout << "Es correcto " << endl;
+                }else{
+                    cout << "Es incorrecto " << endl;
                 }
             }
             if(aa == '>='){
                 if(a >= b){
                     cout << "Es correcto " << endl;
                 }
+                else{
+                    cout << "Es incorrecto " << endl;
+                }
+                
             }
             if(aa == '<'){
                 if(a < b){
                     cout << "Es correcto " << endl;
+                }else{
+                    cout << "Es incorrecto " << endl;
                 }
             }
             if(aa == '<='){
                 if(a <= b){
                     cout << "Es correcto " << endl;
+                }else{
+                    cout << "Es incorrecto " << endl;
                 }
             }
 
