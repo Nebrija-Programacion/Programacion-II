@@ -100,7 +100,7 @@ int main()
 
         case 'i':
             for(auto figura:figuras){
-                cout << figura;
+                cout << *figura;
             }
             aux ='m';
             break;
