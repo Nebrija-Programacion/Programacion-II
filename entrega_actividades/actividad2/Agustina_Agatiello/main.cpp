@@ -47,19 +47,19 @@ int main()
         case 'a':
             cout << "Introduce el lado del circulo: ";
             cin >> value;
-            figuras.push_back(new Cuadrado(value));
+            figuras.push_back(new Circulo(value));
             break;
 
         case 'b':
             cout << "Introduce el lado del cuadrado: ";
             cin >> value;
-            figuras.push_back(new Triangulo(value));
+            figuras.push_back(new Cuadrado(value));
             break;
 
         case 'c':
             cout << "Introduce el radio del triangulo: ";
             cin >> value;
-            figuras.push_back(new Circulo(value));
+            figuras.push_back(new Triangulo(value));
             break;
 
         case 'd':
