@@ -45,7 +45,7 @@ int main()
     while(option != 'z'){
         switch(option){
         case 'a':
-            cout << "Introduce el lado del circulo: ";
+            cout << "Introduce el radio del circulo: ";
             cin >> value;
             figuras.push_back(new Circulo(value));
             break;
@@ -57,7 +57,7 @@ int main()
             break;
 
         case 'c':
-            cout << "Introduce el radio del triangulo: ";
+            cout << "Introduce el lado del triangulo: ";
             cin >> value;
             figuras.push_back(new Triangulo(value));
             break;
