@@ -15,7 +15,7 @@ void showMenu()
     cout << "(c) Agregar triangulo." << endl;
     cout << "(d) Eliminar figura. " << endl;
     cout << "(e) Imprimir lista de figuras." << endl;
-    cout << "(f) Comparar si dos figuras tienen mismo perimetro." << endl;
+    cout << "(f) Comparar si dos figuras tienen mismo parametro." << endl;
     cout << "(g) Comparar area de dos figuras geometricas." << endl;
     cout << "(z) Salir." << endl;
     cout << "----------------------------------------------------------" << endl;
@@ -75,13 +75,13 @@ int main()
             break;
 
         case 'f':
-            cout << "Introduce los indices de las figuras a comparar perimetro: " << endl;
+            cout << "Introduce los indices de las figuras a comparar parametro: " << endl;
             cin >> a;
             cin >> b;
             if(figuras.at(a) == figuras.at(b)){
-                cout << "Tienen el mismo perimetro." << endl;
+                cout << "Tienen el mismo parametro." << endl;
             }else{
-                cout << "No tienen el mismo perimetro." << endl;
+                cout << "No tienen el mismo parametro." << endl;
             }
             break;
 
