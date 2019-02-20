@@ -68,6 +68,5 @@ bool operator ==(Figura &f1, Figura &f2)
 
 void operator <<(const Figura &f1, const Figura &f2)
 {
-    //for(Node* it = l.getFirst(); it )
     f1.print();
 }
