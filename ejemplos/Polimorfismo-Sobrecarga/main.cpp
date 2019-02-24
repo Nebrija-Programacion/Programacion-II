@@ -38,7 +38,10 @@ int main()
 
     // Correct way
 
+
     Vector2* v6 = dynamic_cast<Vector2*>(v4);
+
+
     Vector2* v7 = dynamic_cast<Vector2*>(v5);
 
     // if dynamic cast is well done
