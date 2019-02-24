@@ -8,6 +8,7 @@ class Doctor : public Worker
 public:
     Doctor();
 
+    //It does not need to be virtual, because class Doctor has no children
     void printProfessionalInfo() const;
 };
 

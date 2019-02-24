@@ -11,6 +11,6 @@ Doctor::Doctor()
 
 void Doctor::printProfessionalInfo() const
 {
-    cout << "Hello I am a doctor" << endl;
+    cout << "Hello, I am a doctor" << endl;
 
 }

@@ -8,6 +8,7 @@ class PoliceMan : public Worker
 public:
     PoliceMan();
 
+    //It does not need to be virtual, because class PoliceMan has no children
     void printProfessionalInfo() const;
 };
 
