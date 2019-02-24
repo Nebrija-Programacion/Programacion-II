@@ -22,7 +22,12 @@ int main()
     // call to == overloaded operator
     if(v2 == v3){
         cout << "vectors are equal" << endl;
+        cout << "v2: " << v2 << endl;
+        cout << "v3: " << v3 << endl;
     }
+
+    Vector2 v_add = v2 + v3;
+    cout << "Addition is: " << v_add << endl;
 
     Vector* v4 = new Vector2{1,2};
     Vector* v5 = new Vector2{1,2};
@@ -41,6 +46,8 @@ int main()
         // we use * to get value from pointer
         if(*v6 == *v7){
             cout << "vectors are 2D and are equal" << endl;
+            cout << "v6: " << *v6 << endl;
+            cout << "v7: " << *v7 << endl;
         }
     }
 

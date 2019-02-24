@@ -27,3 +27,16 @@ bool operator ==(const Vector2 &v1, const Vector2 &v2)
 {
     return ( (v1.getX() == v2.getX()) && (v1.getY() && v2.getY()) );
 }
+
+Vector2 operator +(const Vector2 &v1, const Vector2 &v2)
+{
+    double x = v1.getX() + v2.getX();
+    double y = v1.getY() + v2.getY();
+    return Vector2{x,y};
+}
+
+ostream &operator <<(ostream &os, const Vector2 &v)
+{
+    os << v.getX() << ", " << v.getY();
+    return os;
+}

@@ -35,3 +35,17 @@ bool operator ==(const Vector3 &v1, const Vector3 &v2)
              && (v1.getZ() == v2.getZ())
              );
 }
+
+Vector3 operator +(const Vector3 &v1, const Vector3 &v2)
+{
+    double x = v1.getX() + v2.getX();
+    double y = v1.getY() + v2.getY();
+    double z = v1.getZ() + v2.getZ();
+    return Vector3{x,y,z};
+}
+
+ostream& operator <<(ostream &os, const Vector3 &v)
+{
+    os << v.getX() << ", " << v.getY() << ", " << v.getZ();
+    return os;
+}
