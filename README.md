@@ -9,7 +9,7 @@
   - [Herencia](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Herencia)
   - [Polimorfismo](https://es.wikibooks.org/wiki/Programaci%C3%B3n_en_C%2B%2B/Funciones_virtuales)
 
-## Práctia I
+## Práctica I
   - 8 Febrero 2019
   - [Enunciado Práctica normal](https://github.com/Nebrija-Programacion/Programacion-II/tree/master/practicas/practicaI/normal)
   - [Solucion](https://github.com/Nebrija-Programacion/Programacion-II/tree/master/practicas/practicaI/normal/solucion-practica-i)
