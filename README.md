@@ -33,3 +33,12 @@
   - [Solucion]()
   - [Enunciado Práctica OpenGL](https://github.com/Nebrija-Programacion/Programacion-II/tree/master/practicas/practicaII/OpenGL)
   - [Solución]()
+  
+## Sesión 5
+  - 4 Marzo 2019
+  - Repaso
+
+## Sesión 6
+  - 11 Marzo 2019
+  - Templates en C++
+  - [Ejemplo](https://github.com/Nebrija-Programacion/Programacion-II/tree/master/ejemplos/template)
