@@ -7,9 +7,11 @@ SOURCES += \
         main.cpp \
     functions.cpp \
     complex.cpp \
-    data.cpp
+    data.cpp \
+    node.cpp
 
 HEADERS += \
     functions.h \
     complex.h \
-    data.h
+    data.h \
+    node.h

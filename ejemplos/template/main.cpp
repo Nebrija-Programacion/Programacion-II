@@ -3,6 +3,7 @@
 #include "functions.h"
 #include "complex.h"
 #include "data.h"
+#include "node.h"
 
 using namespace std;
 
@@ -22,6 +23,10 @@ int main()
     Data<int> data;
     data.setValue(3);
     cout << data.getValue() << endl;
+
+    Node<int> n{data};
+
+    cout << n.getData().getValue() << endl;
 
     return 0;
 }
