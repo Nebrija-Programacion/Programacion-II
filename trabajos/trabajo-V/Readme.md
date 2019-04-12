@@ -1,4 +1,4 @@
-# Trabajo IV - Red de Metro de Madrid (complejo)
+# Trabajo V - Red de Metro de Madrid (sencillo)
 ## Puntuación Máxima: 6 puntos.
 
 Crear un programa que permita buscar un camino entre 2 estaciones del metro de Madrid.
