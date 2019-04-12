@@ -1,8 +1,8 @@
 # Trabajo I - Sudoku
 
-## Nota Máxima: 10 puntos
+## Nota Máxima: 7 puntos
 
-El trabajo consiste en hacer un programa que resuelva automáticamente un SUDOKU. 
+El trabajo consiste en hacer un programa que para jugar al SUDOKU. 
 
 Los SUDOKUS deben estar guardados en un archivo de texto con el siguiente formato
 
