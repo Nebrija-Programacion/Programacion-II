@@ -14,7 +14,6 @@ El SUDOKU debe estar guardado en un archivo de texto con el siguiente formato
 - - 1 - - 8 5 7 -
 7 - 6 5 - 4 3 - 9
 8 6 - - - - - - -
-- 1 - - - - - - -
 - 1 - - 2 - - 5 8
 - 4 - - 5 - - - - 
 ```
