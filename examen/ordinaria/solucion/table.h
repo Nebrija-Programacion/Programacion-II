@@ -42,7 +42,7 @@ Table<T>::Table(unsigned int rows, unsigned int cols, T initValue):
 template<class T>
 T Table<T>::getValue(unsigned int r, unsigned int c) const
 {
-    if(c > cols || r > rows) throw string{"Number of cols/rows exceed size"};
+    if(c >= cols || r >= rows) throw string{"Number of cols/rows exceed size"};
 
     return data.at(r).at(c);
 
