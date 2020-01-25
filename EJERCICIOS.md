@@ -10,3 +10,5 @@ A continuación crear un programa que almacene un listín de personas. El progra
   * Listar todas las personas (utilizar preferentemente programación funcional)
   * Buscar una persona por nombre (utilizar preferentemente programación funcional).
   * Listar todas las personas de una determinada edad (utilizar preferentemente programación funcional).
+
+2. Modificar el ejercicio anterior creando una *clase Listin* que para almacenar y manipular el listín de personas.
