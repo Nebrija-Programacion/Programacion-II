@@ -1,12 +1,12 @@
 # Programación II - Temario
 
 ## Parte I - Programación Orientada a Objetos
- * [Introducción a la Programación Orientada a Objetos I](./temario/clases.md).
-   * Clases
-   * Funciones miembro
-   * Variables miembro
-   * Miembros públicos y privados.
- * [Introducción a la Programación Orientada a Objetos II](./temario/clasesII.md)
+ * [Introducción a la Programación Orientada a Objetos I].
+   * [Clases.](./temario/clases.md)
+   * [Funciones miembro.](./temario/clases.md)
+   * [Variables miembro.](./temario/clases.md)
+   * [Miembros públicos y privados.](./temario/clasesII.md)
+ * [Introducción a la Programación Orientada a Objetos II]
    * Constructor y destructor
    * Punteros a Clases.
    
