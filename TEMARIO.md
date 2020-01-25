@@ -8,7 +8,7 @@
    * [Miembros públicos y privados.](./temario/clasesII.md)
  * **Introducción a la Programación Orientada a Objetos II**
    * Constructor y destructor
-   * Punteros a Clases.
+   * Gestión de errores con excepciones.
    
 
  * **Herencia**
@@ -23,9 +23,9 @@
  * **Polimorfismo**
    * Funciones virtuales y polimórficas.
    * Funciones virtuales puras.
-   * Punteros y polimorfismo.
+   * Punteros a Clases y polimorfismo.
 
-## Parte II - Plantillas (templates)
+## Parte II - Conceptos avanzados de programación C++
 
  * **Plantillas (templates)**
    * Funciones templatizadas.
