@@ -31,5 +31,5 @@
  * Estructuras de datos templatizadas
    * Grafos.
    * Algortimos de búsqueda en grafos.
-   * Dijkstra
-   * A*
+     * Dijkstra
+     * A*
