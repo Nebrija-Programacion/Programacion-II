@@ -1,4 +1,4 @@
-# Introducción a las Clases en C++
+# Clases en C++ - Introducción
 
 La Programación Orientada a Objetos (POO) es una metodología de programación que busca organizar el código de tal manera que se simplifique su desarrollo y reutilización.
 
