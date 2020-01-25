@@ -1,7 +1,7 @@
 # Programación II - Temario
 
 ## Parte I - Programación Orientada a Objetos
- * [Introducción a la Programación Orientada a Objetos I].
+ * Introducción a la Programación Orientada a Objetos I.
    * [Clases.](./temario/clases.md)
    * [Funciones miembro.](./temario/clases.md)
    * [Variables miembro.](./temario/clases.md)
