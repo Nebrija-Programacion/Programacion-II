@@ -8,5 +8,5 @@
 * **Sesión 2 - 3 Febrero**
   * [Gestión de errores con excepciones](./temario/excepciones.md)
   * Ejercicio 3 de la [colección de ejercicios](./EJERCICIOS.md).
-  * * [Constructor de una clase](./temario/clasesIII.md)
+  * [Constructor de una clase](./temario/clasesIII.md)
   * Ejercicio 3 de la [colección de ejercicios](./EJERCICIOS.md).
