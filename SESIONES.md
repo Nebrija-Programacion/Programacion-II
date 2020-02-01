@@ -6,4 +6,7 @@
      *  [Miembros públicos y privados.](./temario/clasesII.md)
   * Ejercicio 1 de la [colección de ejercicios](./EJERCICIOS.md).
 * Sesión 2 - 3 Febrero
-  * Ejercicio 2 de la [colección de ejercicios](./EJERCICIOS.md).
+  * [Gestión de errores con excepciones](./temario/excepciones.md)
+  * Ejercicio 3 de la [colección de ejercicios](./EJERCICIOS.md).
+  * * [Constructor de una clase](./temario/clasesIII.md)
+  * Ejercicio 3 de la [colección de ejercicios](./EJERCICIOS.md).

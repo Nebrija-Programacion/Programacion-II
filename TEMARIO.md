@@ -7,8 +7,8 @@
    * [Variables miembro.](./temario/clases.md)
    * [Miembros públicos y privados.](./temario/clasesII.md)
  * **Introducción a la Programación Orientada a Objetos II**
-   * Constructor y destructor
-   * Gestión de errores con excepciones.
+   * [Constructor](./temario/clasesIII.md) y destructor
+   * [Gestión de errores con excepciones](./temario/excepciones.md).
    
 
  * **Herencia**
