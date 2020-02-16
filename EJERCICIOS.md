@@ -32,3 +32,25 @@ El programa debe:
   2. Pedirle al usuario un número por el que desee dividir (y mostrar el resultado por pantalla)
   3. Pedirle al usuario un número por el que desee multiplicar (y mostrar el resultado por pantalla)
   4. Pedirle al usuario un número que desee sumar (y mostrar el resultado por pantalla)
+
+### Ejercicio 4
+Crear una clase matriz que reciba a través del constructor el número de filas y columnas.
+
+1. Sobrecargar los operadores `+`, `-`, `*` para que se realicen las operaciones aritméticas oportunas.
+2. Sobrecargar el operador `<<` para mostrar por pantalla la matriz en filas y columnas.
+
+### Ejercicio 5
+Templatizar las funciones `suma`, `resta` y `multiplicacion` para que puedan recibir:
+  * 2 enteros -> devolverá un entero.
+  * 2 decimales -> devolverá un decimal.
+  * 2 matrices -> devolverá una matriz.
+
+### Ejercicio 6
+Realizar un clase `Persona` que contenga los siguientes datos miembro:
+  * Nombre
+  * Edad
+  * DNI
+
+Realizar un programa que a partir de una función templatizada `find` (a través de programación funcional) recorra un `vector` de **punteros a `Persona`** y devuelva:
+  * el puntero a la persona cuyo DNI coincida con el buscado.
+  * `nullptr` si no encontramos nadie con dicho DNI.
