@@ -16,6 +16,7 @@
   * [Sobrecarga de operadores aritméticos](temario/sobrecargaopar.md).
   * [Sobrecarga de operadores lógicos](temario/sobrecargaoplog.md)
   * [Sobrecarga de operadores istream o ostream](temario/sobrecargaopos.md)
+  * Ejercicio 4 de la [colección de ejercicios](./EJERCICIOS.md).
 
 * **Sesión 4 - 17 Febrero**
   * [Funciones templatizadas](temario/funcionestempl.md).
