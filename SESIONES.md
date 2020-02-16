@@ -19,3 +19,4 @@
 
 * **Sesión 4 - 17 Febrero**
   * [Funciones templatizadas](temario/funcionestempl.md).
+  * Ejercicios 5 y 6 de la [colección de ejercicios](./EJERCICIOS.md).
