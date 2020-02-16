@@ -28,12 +28,13 @@
 ## Parte II - Conceptos avanzados de programación C++
 
  * **Plantillas (templates)**
-   * Funciones templatizadas.
+   * [Funciones templatizadas](temario/funcionestempl.md).
    * Clases templatizadas.
   
  * **Sobrecarga de operadores**
-   * Sobrecarga de operadores aritméticos.
-   * Sobrecarga de operadores lógicos
+   * [Sobrecarga de operadores aritméticos](temario/sobrecargaopar.md).
+   * [Sobrecarga de operadores lógicos](temario/sobrecargaoplog.md)
+   * [Sobrecarga de operadores istream o ostream](temario/sobrecargaopos.md)
 
  * **Proyecto final: Estructura de datos templatizada.**
    * Grafos templatizados.
