@@ -1,4 +1,4 @@
-# Asignatura de Programacion I * Grado Ingeniería Informática * Universidad Nebrija
+# Asignatura de Programacion II - Grado Ingeniería Informática - Universidad Nebrija
 
 # 1. Sesiones de clase
 
@@ -20,25 +20,18 @@
 
 [Temario de la asignatura](./TEMARIO.md)
 
-# 5. Ejemplos por temas
-
-[Lista de ejemplos organizados por temas](./EJEMPLOS.md)
-
-# 6. Colección de ejercicios
+# 5. Colección de ejercicios
 
 [Colección de ejercicios (sin solución) I](./EJERCICIOS.md)
 
 
-# 7. Prácticas cursos pasados (enunciados y soluciones)
+# 6. Prácticas cursos pasados (enunciados y soluciones)
 
 * [Curso 2018/19](./practicas/1819)
 
-# 9. Exámenes cursos pasados (enunciados y soluciones)
+# 7. Exámenes cursos pasados (enunciados y soluciones)
 
 * [Curso 2018/19](./examenes/1819)
-  * [Parcial](./examenes/1819/Parcial1)
-  * [Final Ordinaria](./examenes/1819/ordinaria)
-  * [Final Extraordinaria](./examenes/1819/extraordinaria)
 
-# 10. Recursos de otras universidades.
+# 8. Recursos de otras universidades.
   * [Universidad de Granada. Fundamentos de Programación](https://github.com/DEIIT/Ingenieria-Informatica/tree/master/1%C2%BA%201er%20cuatrimestre/Fundamentos%20de%20programaci%C3%B3n)
