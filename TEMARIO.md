@@ -29,14 +29,14 @@
 
  * **Plantillas (templates)**
    * [Funciones templatizadas](temario/funcionestempl.md).
-   * Clases templatizadas.
+   * [Clases templatizadas](temario/clasescionestempl.md).
   
  * **Sobrecarga de operadores**
    * [Sobrecarga de operadores aritméticos](temario/sobrecargaopar.md).
    * [Sobrecarga de operadores lógicos](temario/sobrecargaoplog.md)
    * [Sobrecarga de operadores istream o ostream](temario/sobrecargaopos.md)
 
- * **Proyecto final: Estructura de datos templatizada.**
+ * **Proyecto en clase: Estructura de datos templatizada.**
    * Grafos templatizados.
    * Operadores lógicos sobrecargados.
    * Algortimos de búsqueda en grafos templatizados.
