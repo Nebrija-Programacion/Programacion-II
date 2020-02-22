@@ -21,3 +21,7 @@
 * **Sesión 4 - 17 Febrero**
   * [Funciones templatizadas](temario/funcionestempl.md).
   * Ejercicios 5 y 6 de la [colección de ejercicios](./EJERCICIOS.md).
+
+* **Sesión 5 - 17 Febrero**
+  * [Clases templatizadas](temario/clasescionestempl.md).
+  * Ejercicio 7 de la [colección de ejercicios](./EJERCICIOS.md).
