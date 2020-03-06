@@ -98,4 +98,4 @@ Crear un programa `main` que realice lo siguiente
 
  2. Utilizar la función `find` para encontrar la primera ocurrencia de `nombre: Julian`
  3. Utilizar la función `filter` para encontrar todas las ocurrencias de `nombre: Julian`
- 4. Mostrar los correspondientes resultados por pantalla usando el operador `<<>
+ 4. Mostrar los correspondientes resultados por pantalla usando el operador `<<`
