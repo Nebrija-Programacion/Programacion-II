@@ -12,7 +12,7 @@
    
 
  * **Herencia**
-   * Clases padres y clases hijas.
+   * [Clases padres y clases hijas](./temario/herencia.md)
    * Miembros progegidos.
    * Constructor/Destructor del hijo y del padre.
 

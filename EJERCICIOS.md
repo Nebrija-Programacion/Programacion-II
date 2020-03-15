@@ -99,3 +99,33 @@ Crear un programa `main` que realice lo siguiente
  2. Utilizar la función `find` para encontrar la primera ocurrencia de `nombre: Julian`
  3. Utilizar la función `filter` para encontrar todas las ocurrencias de `nombre: Julian`
  4. Mostrar los correspondientes resultados por pantalla usando el operador `<<`
+
+### Ejercicio 8
+
+Crear un programa que pueda almacenar datos de triángulos equilateros, cuadrados, pentágonos regulares. De todos ellos queremos calcular:
+ * Perímetro.
+ * Área.
+
+Además del triángulo queremos saber la altura, del cuadrado la diagonal y del pentágono regular la apotema.
+
+Crear una programa que pida al usuario para cada figura sus datos y muestre por pantalla todos los cálculos.
+
+### Ejercicio 9
+Se quiere tener un listado con los profesores y alumnos de una universidad. Para ello se utilizará la clase templatizada Lista del Examen Parcial.
+
+Los Alumnos tendrán:
+  * Nombre
+  * Correo Electrónico
+  * Asignaturas de las que está matriculado.
+
+Los Profesores tendrán:
+  * Nombre
+  * Correo Electrónico
+  * Asignaturas de imparten.
+
+Realizar un programa en el que se pueda:
+  * Mostrar por pantalla los datos de tanto alumnos como profesores.
+  * Mostrar por pantalla la lista de profesores y de alumnos.
+  * Buscar un alumno por Correo Electrónico.
+  * Listar todos los alumnos que cursan una asignatura concreta.
+  * Buscar un profesor por nombre.

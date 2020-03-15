@@ -25,3 +25,10 @@
 * **Sesión 5 - 24 Febrero**
   * [Clases templatizadas](temario/clasescionestempl.md).
   * Ejercicio 7 de la [colección de ejercicios](./EJERCICIOS.md).
+
+* **Sesión 6 - 9 Marzo**
+  * [Examen Parcial](./examenes/1920/parcial/ExamenParcial.pdf)
+
+* **Sesión 7 - 16 Marzo**
+  * [Herencia](temario/herencia.md).
+  * Ejercicios 8 y 9 de la [colección de ejercicios](./EJERCICIOS.md).
