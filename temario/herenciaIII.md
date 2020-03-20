@@ -65,12 +65,12 @@ class Hijo: private Padre{
 
 };
 
-class Nieto: public Hijo{
+class Nieto: private Hijo{
 
 }
 ```
 
-|        | public Padre/Hijo | protected Padre/Hijo | private Hijo | public Nieto | protected Nieto | private Nieto |
-| ------ | ----------------- | -------------------- | ------------ | ------------ | --------------- | ------------- |
-| Nieto  |                   |                      |              | x            | x               | x             |
-| Global |                   |                      |              | x            |                 |               |
+|        | miembros Padre | public/protected Hijo | private Hijo | public Nieto | protected Nieto | private Nieto |
+| ------ | -------------- | --------------------- | ------------ | ------------ | --------------- | ------------- |
+| Nieto  |                | x                     |              | x            | x               | x             |
+| Global |                |                       |              | x            |                 |               |
