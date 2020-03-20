@@ -16,7 +16,7 @@ Añadir las siguientes funciones miembro (en las clases que tenga sentido)
   - calcularPerimetro
   - calcularDiagonal
   - calcularAltura
-  - dibujarFirguar
+  - dibujarFigura
 
 Aquellas funciones que sean comunes a las tres clases declararlas en la clase padre.
 
