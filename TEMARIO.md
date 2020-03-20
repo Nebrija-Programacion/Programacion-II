@@ -13,8 +13,8 @@
 
  * **Herencia**
    * [Clases padres y clases hijas](./temario/herencia.md)
-   * Miembros progegidos.
    * [Constructor/Destructor del hijo y del padre](./temario/herenciaII.md).
+   * [Herencia pública, progegida y privada](./temario/herenciaIII.md).
 
  * **Lección extra - Smart Pointers**
    * Shared Pointers

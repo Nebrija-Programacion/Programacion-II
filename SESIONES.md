@@ -32,3 +32,7 @@
 * **Sesión 7 - 16 Marzo**
   * [Herencia](temario/herencia.md).
   * Ejercicios 8 y 9 de la [colección de ejercicios](./EJERCICIOS.md).
+
+* **Sesión 8 - 23 Marzo**
+   * [Constructor/Destructor del hijo y del padre](./temario/herenciaII.md).
+   * [Herencia pública, progegida y privada](./temario/herenciaIII.md).
