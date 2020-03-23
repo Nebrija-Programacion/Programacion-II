@@ -129,3 +129,27 @@ Realizar un programa en el que se pueda:
   * Buscar un alumno por Correo Electrónico.
   * Listar todos los alumnos que cursan una asignatura concreta.
   * Buscar un profesor por nombre.
+
+## Ejercicio 10
+
+Realizar una clase Matriz, de dimensiones genéricas de la que hereden las clases:
+  * Matriz Diagonal.
+  * Matriz3x3.
+  * Matriz2x2.
+  
+
+Implementar las siguientes funciones miembro (en las hijas)
+  * getDeterminant
+  * getInverse
+  * getTraspose
+  * getAdjugate (matriz adjunta a uno de los elementos)
+
+Implementar además las funciones necesarias para:
+ * Mostrar por pantalla la matriz.
+ * Dar valor a uno de los elementos.
+ * Leer el valor de uno de los elementos.
+  
+
+(mas info: https://www.youtube.com/watch?v=3BpGef99HEs)
+
+Nota: Esto se podría hacer con una sola clase Matriz genérica, pero el objetivo es practicar la herencia.

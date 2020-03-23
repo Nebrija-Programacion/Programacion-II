@@ -36,3 +36,4 @@
 * **Sesión 8 - 23 Marzo**
    * [Constructor/Destructor del hijo y del padre](./temario/herenciaII.md).
    * [Herencia pública, progegida y privada](./temario/herenciaIII.md).
+   * Ejercicio 10 de la [colección de ejercicios](./EJERCICIOS.md).
