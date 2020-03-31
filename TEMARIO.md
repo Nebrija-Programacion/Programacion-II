@@ -18,7 +18,7 @@
 
  * **Lección extra - Smart Pointers**
    * [Unique Pointers](./temario/smartpointers.md)
-   * * [Shared Pointers](./temario/smartpointersii.md)
+   * [Shared Pointers](./temario/smartpointersii.md)
    
 
  * **Polimorfismo**

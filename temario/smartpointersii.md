@@ -5,7 +5,7 @@ Los punteros inteligentes se diferencian de los punteros tradicionales de c++ (`
 En el estándard actual de C++ se recomiendo usar **siempre** *smart pointers*.
 
 Aquí vamos a estudiar dos tipos de punteros inteligentes, ambos introducidos desde C++11.
-* `shared_ptr`
+* `unique_ptr`
 * `shared_ptr`
 
 ## shared_ptr
