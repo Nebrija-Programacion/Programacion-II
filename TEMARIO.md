@@ -17,8 +17,9 @@
    * [Herencia pública, progegida y privada](./temario/herenciaIII.md).
 
  * **Lección extra - Smart Pointers**
-   * Shared Pointers
-   * Unique Pointers
+   * [Unique Pointers](./temario/smartpointers.md)
+   * * [Shared Pointers](./temario/smartpointersii.md)
+   
 
  * **Polimorfismo**
    * Funciones virtuales y polimórficas.
