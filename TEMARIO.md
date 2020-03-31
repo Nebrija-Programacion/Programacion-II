@@ -22,9 +22,8 @@
    
 
  * **Polimorfismo**
-   * Funciones virtuales y polimórficas.
-   * Funciones virtuales puras.
-   * Punteros a Clases y polimorfismo.
+   * [Funciones virtuales y polimórficas](./temario/polimorfismo.md).
+   * [Funciones virtuales puras y clases abstractas](./temario/polimorfismoii.md).
 
 ## Parte II - Conceptos avanzados de programación C++
 
