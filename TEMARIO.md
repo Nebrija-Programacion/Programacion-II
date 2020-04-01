@@ -24,6 +24,7 @@
  * **Polimorfismo**
    * [Funciones virtuales y polimórficas](./temario/polimorfismo.md).
    * [Funciones virtuales puras y clases abstractas](./temario/polimorfismoii.md).
+   * [Downcasting](./temario/downcasting.md)
 
 ## Parte II - Conceptos avanzados de programación C++
 

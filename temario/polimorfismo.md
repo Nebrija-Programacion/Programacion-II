@@ -12,6 +12,7 @@ Por ejemplo:
 class Figura{
 public:  
   Figura(){};
+  virtual ~Figura(){}
 
   virtual float getArea(){
     std::cout << "No implementado\n";
@@ -30,9 +31,9 @@ public:
 ```
 ¿Qué está pasando aquí?
 
-1. La clase `Figura` tiene una función virtual `virtual float getArea()`. Es virtual por la palabra `virtual`.
-Una función virtual es una función que se declara y se implementa en la clase padre, y puede volver a ser implementada en las clases hijas. 
-1. La clase `Cuadrado` implementa la función pura `getArea`. La implementa de modo no virtual, ya que no usa la palabra `virtual` (aunque podrñia hacerlo)
+1. La clase `Figura` tiene una función virtual `virtual float getArea()`. Es virtual por la palabra `virtual`. Una función virtual es una función que se declara y se implementa en la clase padre, y puede volver a ser implementada en las clases hijas.
+2. La clase `Figura` por tener funciones virtuales **debe implementar** un destructor virtual `virtual ~Figura()` 
+3. La clase `Cuadrado` implementa la función pura `getArea`. La implementa de modo no virtual, ya que no usa la palabra `virtual` (aunque podrñia hacerlo)
 
 Si realizamos un programa como el siguiente:
 
@@ -42,7 +43,7 @@ Si realizamos un programa como el siguiente:
 class Figura{
 public:  
   Figura(){};
-
+  virtual ~Figura(){}
   virtual float getArea(){
     std::cout << "No implementado\n"; 
     return 0;
