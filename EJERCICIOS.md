@@ -153,3 +153,7 @@ Implementar además las funciones necesarias para:
 (mas info: https://www.youtube.com/watch?v=3BpGef99HEs)
 
 Nota: Esto se podría hacer con una sola clase Matriz genérica, pero el objetivo es practicar la herencia.
+
+## Ejercicio 11
+
+Realizar el ejercicio 8 con polimorfismo
