@@ -40,21 +40,21 @@
 
 * **Sesión 9 - 20 Abril**
    * Punteros Ingelignetes
-    * [Unique Pointers](./temario/smartpointers.md)
-    * [Shared Pointers](./temario/smartpointersii.md)
+     * [Unique Pointers](./temario/smartpointers.md)
+     * [Shared Pointers](./temario/smartpointersii.md)
    * **Polimorfismo**
-    * [Funciones virtuales y polimórficas](./temario/polimorfismo.md).
-    * [Funciones virtuales puras y clases abstractas](./temario/polimorfismoii.md).
-    * [Downcasting](./temario/downcasting.md)
+     * [Funciones virtuales y polimórficas](./temario/polimorfismo.md).
+     * [Funciones virtuales puras y clases abstractas](./temario/polimorfismoii.md).
+     * [Downcasting](./temario/downcasting.md)
 
-* **Sesión 10 - 27 Abril **
+* **Sesión 10 - 27 Abril**
   * Construyendo un grafo templatizado
-   * Crear y añadir nodos.
+    * Crear y añadir nodos.
    
-* **Sesión 11 - 4 Mayo **
+* **Sesión 11 - 4 Mayo**
   * Algoritmos de búsqueda en grafos
-   * Djiskstra
+    * Djiskstra
    
-* **Sesión 11 - 11 Mayo **
+* **Sesión 11 - 11 Mayo**
   * Algoritmos de búsqueda en grafos
    * A*
