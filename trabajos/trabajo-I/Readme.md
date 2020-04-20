@@ -8,7 +8,7 @@ Los SUDOKUS deben estar guardados en un archivo de texto con el siguiente format
 
 ```
 - - 8 4 9 - 6 - -
-6 - 4 6 - 3 2 - -
+6 - 4 7 - 3 2 - -
 - - - - - - - - 7
 - 8 - 2 - - 1 - -
 - - 1 - - 8 5 7 -
