@@ -1,4 +1,4 @@
-# Trabajo I - Sudoku
+# Trabajo VII - Sudoku
 
 ## Nota Máxima: 10 puntos
 
