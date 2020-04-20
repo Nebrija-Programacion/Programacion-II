@@ -55,6 +55,6 @@
   * Algoritmos de búsqueda en grafos
     * Djiskstra
    
-* **Sesión 11 - 11 Mayo**
+* **Sesión 12 - 11 Mayo**
   * Algoritmos de búsqueda en grafos
    * A*
