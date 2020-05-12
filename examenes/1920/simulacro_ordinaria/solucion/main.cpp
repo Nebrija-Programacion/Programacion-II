@@ -28,53 +28,58 @@ ostream & operator<<(ostream &os, shared_ptr<Persona> p){
 
 int main()
 {
-    Lista<shared_ptr<Persona> > personas;
 
-    personas.push_back(make_shared<Persona>("Juan", 23));
-    personas.push_back(make_shared<Persona>("Lucia", 22));
-    personas.push_front(make_shared<Persona>("Antonio", 20));
-    personas.push_front(make_shared<Persona>("Agueda", 19));
+    try{
+        Lista<shared_ptr<Persona> > personas;
 
-    std::cout << personas << "\n";
+        personas.push_back(make_shared<Persona>("Juan", 23));
+        personas.push_back(make_shared<Persona>("Lucia", 22));
+        personas.push_front(make_shared<Persona>("Antonio", 20));
+        personas.push_front(make_shared<Persona>("Agueda", 19));
 
-    // filter older than 21
+        std::cout << personas << "\n";
 
-    auto filtered = personas.filter([](shared_ptr<Persona> p){
-            return p->getAge() > 21;
-    });
+        // filter older than 21
 
-    std::cout << filtered << "\n";
+        auto filtered = personas.filter([](shared_ptr<Persona> p){
+                return p->getAge() > 21;
+        });
 
-    // find and erase Lucia
+        std::cout << filtered << "\n";
 
-    int index = personas.findIndex([](shared_ptr<Persona> p) {
-             return p->getName() == "Lucia";
-    });
+        // find, print and erase Lucia
 
-    if(index != -1) personas.erase(index);
+        int index = personas.findIndex([](shared_ptr<Persona> p) {
+                return p->getName() == "Lucia";
+        });
+        if(index != -1) std::cout << personas.at(index) << "\n";
+        if(index != -1) personas.erase(index);
 
-    std::cout << personas << "\n";
+        std::cout << personas << "\n";
 
+    }catch(string e){
+        cout << e << "\n";
+    }
 
     return 0;
 }
 
 int Persona::getAge() const
 {
-return age;
+    return age;
 }
 
 void Persona::setAge(int value)
 {
-age = value;
+    age = value;
 }
 
 string Persona::getName() const
 {
-return name;
+    return name;
 }
 
 void Persona::setName(const string &value)
 {
-name = value;
+    name = value;
 }

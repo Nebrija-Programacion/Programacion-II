@@ -26,6 +26,7 @@ public:
 
     vector<T> getData() const;
     void setData(const vector<T> &value);
+    T & at(int pos);
 
 private:
     vector<T> data;
@@ -99,6 +100,13 @@ template <class T>
 void Lista<T>::setData(const vector<T> &value)
 {
     data = value;
+}
+
+template<class T>
+T &Lista<T>::at(int pos)
+{
+    if(pos >= data.size() || pos < 0) throw string{"Out of bounds"};
+    return data.at(pos);
 }
 
 template <class T>
