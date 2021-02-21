@@ -123,7 +123,7 @@ Por ejemplo en el programa se podrían declarar dos variables de tipo `Person`
 ```cpp
 Person person1;
 Person person2;
-Person * person3 = new Person();
+shared_ptr<Person>  person3 = make_shared<Person>();
 ```
 
 `person1` y `person2` son dos variables/etiquetas de tipo `Person`. En la jerga de C++ se dice que `person1` y `person2` son objetos o instancias de tipo `Person`. `person3` es un puntero a `Person`.
@@ -144,6 +144,5 @@ std::cout << "Hola " << person2.getName() << "\n"; // Hola Maria
 person3->setName("Luisin");
 std::cout << "Como vas " << person3->getName() << "\n"; // Como vas Luisin
 
-delete person3; // liberamos la memoria reservada para person3
 ```
 
