@@ -14,8 +14,8 @@ void print(std::string a){
 }
 
 int main() {
-  print<int>(3); // Esto es un numero: 3
-  print<std::string>("hola"); // Esto es un string: hola
+  print(3); // Esto es un numero: 3
+  print("hola"); // Esto es un string: hola
   return 0;
 }
 ```
