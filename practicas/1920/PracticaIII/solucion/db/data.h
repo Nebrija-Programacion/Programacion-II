@@ -7,7 +7,7 @@
 template <class K, class V>
 class Data
 {
-    template<class fK, class fV> friend std::ostream & operator << (std::ostream & os, Data<fK,fV> const & d);
+    template<class K, class V> friend std::ostream & operator << (std::ostream & os, Data<fK,fV> const & d);
 public:
     Data();
     void insert(Pair<K,V>* p);
