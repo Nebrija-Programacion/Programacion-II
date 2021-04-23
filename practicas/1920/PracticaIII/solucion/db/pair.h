@@ -5,7 +5,7 @@
 template<class K, class V>
 class Pair
 {
-    template<class fK, class fV> friend std::ostream & operator<<(std::ostream & os, Pair<fK,fV> const & p);
+    template<class K, class V> friend std::ostream & operator<<(std::ostream & os, Pair<fK,fV> const & p);
 
     public:
     Pair(K const & k, V const & v);
