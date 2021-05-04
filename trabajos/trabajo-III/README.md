@@ -1,5 +1,4 @@
 # Trabajo III - Problema del viajero con Algoritmos Genéticos
-## Puntuación Máxima: 20 puntos - A repartir entre Programación II y Estructuras de Datos.
 
 Realizar un programa que resuelva mediante algoritmos genéticos el problema del viajero (con múltiples viajeros). Se puede ver un algoritmo que lo resuelve [aquí](./gamtsp.pdf).
 
