@@ -1,6 +1,5 @@
 # Trabajo I - Sudoku
 
-## Nota Máxima
 
 El trabajo consiste en hacer un programa que para jugar al SUDOKU. 
 
