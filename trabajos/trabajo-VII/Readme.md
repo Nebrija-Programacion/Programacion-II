@@ -1,6 +1,5 @@
 # Trabajo VII - Sudoku
 
-## Nota Máxima: 10 puntos
 
 El trabajo consiste en hacer un programa que resuelva automáticamente un SUDOKU. 
 
