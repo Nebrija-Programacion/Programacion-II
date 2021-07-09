@@ -10,6 +10,8 @@ int maximo_comun_divisor(int n1, int n2){
     }
 }
 
+
+
 int main()
 {
     cout << "Introduce 2 números separados por un espacio: " << endl;
